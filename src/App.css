@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.myStyle{
+    @apply  w-[275px] h-[18rem] border-[1px] rounded border-gray-400 
+}
